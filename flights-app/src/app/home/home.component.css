@@ -1,0 +1,9 @@
+a {
+  cursor: pointer;
+}
+
+.jumbotron.welcome {
+  background-image: url('https://png.pngtree.com/thumb_back/fw800/back_pic/05/14/71/9659a7e50eb2f83.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
